@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:null0NULL123/kylin.github.io.git
+  branch: main
